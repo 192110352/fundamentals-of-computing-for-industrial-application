@@ -2,4 +2,4 @@
 ![image](https://user-images.githubusercontent.com/113370913/214483391-a6ea8d1a-65b9-424d-b74b-b6cc5336b6ff.png)
 ![image](https://user-images.githubusercontent.com/113370913/214483750-58db320d-16bb-42cf-9bf2-c32734648098.png)
 lab 35.arthimetic operations![image](https://user-images.githubusercontent.com/113370913/214508642-72653880-1a64-4a97-985e-b50f7fb31052.png)
-
+Lab area of different shapes 
